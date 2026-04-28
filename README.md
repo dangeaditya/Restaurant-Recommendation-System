@@ -65,21 +65,33 @@ Pandas & NumPy 📊
 Scikit-learn 🤖
 Matplotlib / Seaborn 📈
 HTML, CSS, JavaScript 💻
+
+
 📊 Data Preprocessing
+
 Handling missing values
 Removing duplicates
 Feature selection
 Text processing (if applicable)
+
+
 📈 Data Visualization
+
 Ratings distribution
 Popular cuisines
 Restaurant trends
 User preferences analysis
+
+
 🤖 Model Building
+
 Feature extraction using TF-IDF / Count Vectorizer
 Cosine Similarity for recommendations
 Model evaluation using accuracy metrics
+
+
 🌐 Web Application (Flask)
+
 User inputs preferences
 Backend processes request
 Returns personalized restaurant recommendations
