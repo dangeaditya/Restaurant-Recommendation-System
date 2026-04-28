@@ -1,6 +1,12 @@
 🍽️ Restaurant Recommendation System
+
+
 📌 Overview
 The Restaurant Recommendation System is a smart web-based application that helps users discover restaurants based on their preferences, location, and ratings. It uses Content-Based Filtering to provide personalized suggestions and improve the overall dining experience.
+
+
+
+
 
 This project is designed for:
 
@@ -15,7 +21,10 @@ This project is designed for:
 📊 Data visualization for insights
 🌐 Web application using Flask
 💡 Clean and user-friendly interface
+
+
 🎯 Objectives
+
 Implement Content-Based Recommendation System
 Perform data preprocessing and cleaning
 Analyze dataset using visualization techniques
@@ -31,7 +40,13 @@ Restaurant features
 Ratings and reviews
 🏗️ System Architecture
 User Input → Data Preprocessing → Feature Extraction → Similarity Calculation → Recommendation Output
-📂 Project Structure
+
+
+
+
+📂 Project Structure	
+
+
 ├── data/                  # Dataset files
 ├── static/                # CSS, JS, Images
 ├── templates/             # HTML files (Flask)
@@ -39,7 +54,11 @@ User Input → Data Preprocessing → Feature Extraction → Similarity Calculat
 ├── model.py               # Recommendation logic
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
+
+
+
 ⚙️ Technologies Used
+
 Python 🐍
 Flask 🌐
 Pandas & NumPy 📊
@@ -64,7 +83,11 @@ Model evaluation using accuracy metrics
 User inputs preferences
 Backend processes request
 Returns personalized restaurant recommendations
+
+
+
 ▶️ How to Run the Project
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/restaurant-recommendation-system.git
 cd restaurant-recommendation-system
@@ -72,6 +95,8 @@ cd restaurant-recommendation-system
 pip install -r requirements.txt
 3️⃣ Run the Application
 python app.py
+
+
 📌 Use Cases
 👤 For Users
 Discover new restaurants
@@ -79,7 +104,10 @@ Get personalized dining suggestions
 🍴 For Restaurant Owners
 Increase visibility
 Target the right audience
+
+
 Developed By
+
 Aditya Dange
 Shafika Nadaf
 Gauri Chougale
